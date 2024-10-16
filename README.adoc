@@ -1,0 +1,6 @@
+= Documetation for Service Foo
+
+Some text about the Foo service.
+
+
+== Resources
