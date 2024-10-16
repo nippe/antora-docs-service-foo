@@ -1,4 +1,4 @@
 name: service-foo
 title: Service Foo
 version: 0.0.1
-start_page: modules/pages/test.adoc
+start_page: ./modules/pages/test.adoc
